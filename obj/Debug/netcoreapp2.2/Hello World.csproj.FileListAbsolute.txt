@@ -1,0 +1,11 @@
+/home/edmayen/NET - C#/Hello World/bin/Debug/netcoreapp2.2/Hello World.deps.json
+/home/edmayen/NET - C#/Hello World/bin/Debug/netcoreapp2.2/Hello World.runtimeconfig.json
+/home/edmayen/NET - C#/Hello World/bin/Debug/netcoreapp2.2/Hello World.runtimeconfig.dev.json
+/home/edmayen/NET - C#/Hello World/bin/Debug/netcoreapp2.2/Hello World.dll
+/home/edmayen/NET - C#/Hello World/bin/Debug/netcoreapp2.2/Hello World.pdb
+/home/edmayen/NET - C#/Hello World/obj/Debug/netcoreapp2.2/Hello World.csprojAssemblyReference.cache
+/home/edmayen/NET - C#/Hello World/obj/Debug/netcoreapp2.2/Hello World.csproj.CoreCompileInputs.cache
+/home/edmayen/NET - C#/Hello World/obj/Debug/netcoreapp2.2/Hello World.AssemblyInfoInputs.cache
+/home/edmayen/NET - C#/Hello World/obj/Debug/netcoreapp2.2/Hello World.AssemblyInfo.cs
+/home/edmayen/NET - C#/Hello World/obj/Debug/netcoreapp2.2/Hello World.dll
+/home/edmayen/NET - C#/Hello World/obj/Debug/netcoreapp2.2/Hello World.pdb
